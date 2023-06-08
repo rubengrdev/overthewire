@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Bandit\_3
 
 <figure><img src=".gitbook/assets/Pasted image 20230608173444.png" alt=""><figcaption></figcaption></figure>
