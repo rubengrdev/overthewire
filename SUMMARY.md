@@ -8,3 +8,5 @@
 * [Bandit\_4](Bandit\_4.md)
 * [Bandit\_5](Bandit\_5.md)
 * [Bandit\_6](Bandit\_6.md)
+* [Bandit\_7](bandit\_7.md)
+* [Bandit 8](bandit-8.md)
